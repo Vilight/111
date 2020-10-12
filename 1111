@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Тег IFRAME</title>
+ </head>
+ <body>  
+
+ <iframe src="https://frontend.vh.yandex.ru/player/vkQ91cARoO04?from=partner&mute=1&autoplay=1&branding=0" width="468" height="60" align="left">
+    Ваш браузер не поддерживает плавающие фреймы!
+ </iframe>
+
+ </body>
+</html>
+
+<iframe width="560" height="315" src="https://frontend.vh.yandex.ru/player/vkQ91cARoO04?from=partner&mute=1&autoplay=1&branding=0" allow="autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media" frameborder="0" scrolling="no" allowfullscreen></iframe>
